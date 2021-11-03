@@ -11,7 +11,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: https://github.com/morningspace/capabilities-shim-gitops
+    repoURL: https://github.com/huang-cn/capabilities-shim-gitops
     path: config/shared/crossplane-ext
     targetRevision: HEAD
   syncPolicy:
